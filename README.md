@@ -12,3 +12,8 @@ Reference：
 - https://github.com/quangdang46/mempalace_rust
 - https://github.com/vernonstinebaker/mempalace
 - https://github.com/deveuper/mempalace-Rust
+
+## License
+
+Licensed under the [Apache License, Version 2.0](https://opensource.org/licenses/Apache-2.0). See [LICENSE](./LICENSE) for details.
+
